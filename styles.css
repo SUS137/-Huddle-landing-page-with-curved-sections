@@ -507,9 +507,17 @@ li {
     max-width: 560px;
   }
 
+
+  .section3 {
+    margin-top: 5rem;
+    margin-bottom: 10rem;
+  }
+
   /*----------*/
   /*FOOTER*/
   /*-----------*/
+
+
 
   .footer {
     max-width: 1440px;
@@ -603,7 +611,7 @@ li {
     display: flex;
     gap: 1rem;
     margin-top: 5rem;
-    margin-bottom: 5rem;
+    margin-bottom: 3rem;
   }
 
   .media-icon1 {
